@@ -387,11 +387,6 @@
       "name": "七七影视",
       "is_adult": false
     },
-        "dbzy": {
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
-      "name": "豆瓣资源",
-      "is_adult": false
-    },
     "bf": {
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "name": "暴风",
